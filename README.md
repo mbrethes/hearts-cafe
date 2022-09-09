@@ -16,7 +16,7 @@ screen hiding the cards while the device switches hands. It also features two di
 a predefined strategy thought in advance to minimize losses). Both AIs do not cheat, that is they act like they do
 not know the state of their opponent's cards.
 
-The original instructions about the game are in the [how to play.txt](how to play.txt) file.
+The original instructions about the game are in the [how to play.txt](how%20to%20play.txt) file.
 
 With its reasonably slick interface and lack of obvious bugs, this game won the first place of the competition
 back then, and I was very happy about that ;-).
