@@ -1,0 +1,17 @@
+#include "GameBitmaps.h"
+
+#include "Pics/IntroPicImage.dat"
+#include "Pics/IntroZeroPicImage.dat"
+#include "Pics/GameMenuImage.dat"
+#include "Pics/GameMenuGrayImage.dat"
+#include "Pics/SplashScreenImage.dat"
+#include "Pics/SplashScreen2Image.dat"
+
+#include "Pics/MenuElufAnimImage.dat"
+#include "Pics/MenuElufOrigImage.dat"
+#include "Pics/MenuHCRAnimImage.dat"
+#include "Pics/MenuHCROrigImage.dat"
+#include "Pics/MenuJohnAnimImage.dat"
+#include "Pics/MenuJohnOrigImage.dat"
+#include "Pics/MenuKayAnimImage.dat"
+#include "Pics/MenuKayOrigImage.dat"

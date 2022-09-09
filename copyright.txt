@@ -1,0 +1,36 @@
+		Copyright notice for Hearts Cafe.
+		---------------------------------
+
+Hearts Cafe is (c) 2002 by Mathieu.
+http://thieumsweb.free.fr/
+
+The source code contained in this archive is released for educational
+purposes. This means :
+
+You can:
+- read the source code,
+- edit it,
+- build/compile it,
+- change the gfx, add sound, etc.
+- play with the nifty rom you just created,
+- pass the binary and/or source code to your friends, just to show
+  them how bad I am at programming, and as long as you don't modify
+  this copyright notice.
+- correct the bugs :-p
+
+You can't:
+- modify this copyright notice or remove it from the archive.
+- change 3 lines of code and distribute it saying "I made that nifty
+  program". Look, plagiarism is not a good way to learn things. And
+  do you honestly think you can gain popularity in the community by
+  doing that ?
+- take me as responsible of whatever may happen on behalf of reading
+  the source code, building it, and executing it (either on emulator
+  or on the real GBA). This includes mental diseases due to the vision
+  of the source code and headaches due to head banging on
+  walls of any kind (including, but not limited to, wood, concrete, and
+  plastic) after trying to understand the logic behind the AI.
+
+You may:
+- contact me if you have any questions.
+- read the fscking readme.txt first, of course.

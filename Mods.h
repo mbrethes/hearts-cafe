@@ -1,0 +1,19 @@
+#ifndef __MODS_HEADER__
+
+#define __MODS_HEADER__
+/*
+#include <afm.h>
+
+extern const  _binary__home_brethes_projets_Hearts_Musics_intro_mod_start;
+#define INTROMOD _binary__home_brethes_projets_Hearts_Musics_intro_mod_start
+
+extern const  _binary__home_brethes_projets_Hearts_Musics_splash_mod_start;
+#define SPLASHMOD _binary__home_brethes_projets_Hearts_Musics_splash_mod_start
+
+extern const  _binary__home_brethes_projets_Hearts_Musics_selplay_mod_start;
+#define SELPLAYMOD _binary__home_brethes_projets_Hearts_Musics_selplay_mod_start
+// extern const  _binary__home_brethes_projets_Hearts_Musics_maingame_mod_start;
+// #define MAINGAMEMOD _binary__home_brethes_projets_Hearts_Musics_maingame_mod_start
+
+*/
+#endif

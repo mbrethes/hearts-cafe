@@ -1,0 +1,139 @@
+             *---------------*
+             |  Hearts Cafe  |
+             *---------------*
+
+A game by Mathieu, an amateur game developer.
+
+
+0. Warning
+----------
+
+Please note that if you want to use this game on real hardware, you will need
+to fix the header - but that shouldn't be a problem, as flash linker software
+does that automagically... No ?
+
+It should also work fine on almost all emulators - at least Mappy and
+Boycott Advance.
+
+
+1. How to play ?
+----------------
+
+
+You can skip the introduction screen pressing start.
+
+1.1. The Menus
+--------------
+
+The "menu" screen is quite easy to master : each slot on the bottom left
+of the console corresponds to one of the characters on the screen - from left
+to right : J0hn, Kay, HCR and Eluf (okay, I have no imagination for names...).
+With the paddle, you can select the class of the character : it can be a human
+player, a basic, I-play-a-random-card AI (AI rand), or a more advanced AI (AI
+norml). The class you selected appears as a sphere on the bottom right corner
+of the screen.
+
+Once you press "A", the corresponding slot on the left gets filled by a reduced
+version of that sphere - meaning that the corresponding character will be of
+the class you selected.
+
+If you press "B", the slot will be released - it permits you to cancel your
+choice.
+
+If you select a "player" - human player, another menu comes, where you can
+enter your name. When you're OK with your name, press "start", and you shall
+go back to the previous menu. Your name needs to be at least 3 characters, and
+at most 4. For each letter, you can : go back to the previous one, pressing 
+"B" ; select it slowly with the paddle, circulate fast through the letters with
+the L and R shoulder buttons ; and go to the next letter pressing "A".
+
+When you have selected all four players, the bottom-right sphere changes to
+"OK". If you press start, the game starts ! Pressing B will work as usual.
+
+
+1.2. The Game
+-------------
+
+1.2.1. Basics
+-------------
+
+The display has been designed with a pseudo-3D view in mind : this means that
+you see your three opponents "in front" of you, with their cards. Your own
+cards lie at the bottom of the screen.
+
+On the top-right corner, a semi-translucent frame will display the cards that
+have been played in the current trick.
+
+A triangle will display the card you have selected to play. It might become a
+cross if you can't currently play the card.
+
+
+As you can play with several human friends, a mechanism has been designed in
+order to prevent them from watching your cards : when you have finished your
+turn, your cards will scroll down and become invisble to everyone until your
+next turn !
+
+Moreover, at the beginning of each human player's turn, a window will pop-up
+in front of the screen, waiting for him/her to press "start" before showing up
+his/her cards.
+
+
+At the end of each trick, another window pops up and summarizes the trick,
+showing you which cards have been played by who.
+
+You'll notice that the cards are displayed in a special way (either in this
+window or in the frame we discussed before) : the card slightly to the bottom
+is the card J0hn has just played, the one slightly to the top is HCR's one,
+the one to the left is Kay's one, and the one to the right is Eluf's one.
+
+Imagine the four players around a table : J0hn in front, where you stand, Kay
+on the left, HCR at the other side, and Eluf on the right. The card
+positionning represents that :-).
+
+
+1.2.2. The First Round : giving away three cards
+------------------------------------------------
+
+But first, you need to give three cards.
+
+Pop out the "Player xyzt, it's your turn" window - pressing "Start", and choose
+three cards to give away. You can circulate through the cards one by one using
+the paddle, or fast using L and R shoulder buttons. Each card you select with
+"A" or "B" raises up, select it once more and it will go down again. Whence you
+will have selected three cards, the cursor changes into some kind of arrow -
+press start to confirm that you want to give the three cards you selected, and
+"A" or "B" otherwise...
+
+When each player has done so, the game starts !
+
+
+1.2.3. The tricks
+-----------------
+
+Choose the card you want to play with the arrows - or the shoulders, and press 
+"A" or "B" to confirm. The card will be played immediately - so don't make any
+mistake :-).
+
+When all 4 players will have done this, the "trick window" will pop-up. If you
+play with friends, don't forget to show them the result - it's important to
+know who played what !
+
+
+1.2.4. End of match, end of game
+--------------------------------
+
+The match ends when all the cards are played. The game ends when one player
+scores over 100.
+
+
+1.3. Strategy
+-------------
+
+You'll find fast that the AIs are not very, very smart... If you want to
+progress in this game, find other human players !
+
+
+4. Conclusion
+-------------
+
+Thanks for reading, and have fun playing Hearts Cafe !
