@@ -21,19 +21,24 @@ The original instructions about the game are in the [how to play.txt](how%20to%2
 With its reasonably slick interface and lack of obvious bugs, this game won the first place of the competition
 back then, and I was very happy about that ;-).
 
+## License
+
+This program is released under the [GNU General Public License version 3](LICENSE).
+
 ## Build instructions
 
 Note that the last time I cross-compiled this game was in 2003 using [Devkit Advance](http://devkitadv.sourceforge.net/) on Linux. Your mileage may vary.
 
 Clone this repository, place yourself in the root directory containing the [Makefile](Makefile), edit the Makefile to give the paths of your Devkit, and type "make".
 
-The game relies on the [SGADE](https://sourceforge.net/projects/sgade/), an open-source library. Its source code is not included,
+The main game file is [Hearts.c](Hearts.c).
+
+The game relies on the [SGADE](https://sourceforge.net/projects/sgade/), version 1.01, an [open-source](include/SoLicense.txt) library. Its source code is not included,
 instead you get precompiled binaries in the [lib](lib) folder. If you want to get the source code, it should
-still be available on sourceforge (see Credits below).
+still be available on the project's sourceforge page (see Credits below).
 
 If you need to run the game on real hardware, it needs to be patched to include a specific checksum that is required by
 the GBA upon startup. But it should run as-is on an emulator (tested on [BoycottAdvance](https://gbadev.org/tools.php?showinfo=200)).
-
 
 ## Credits
 
